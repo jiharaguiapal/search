@@ -1,0 +1,14 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
+  },
+  "SideBar": {
+    "description": "Auto imported from components/SideBar.vue"
+  }
+}

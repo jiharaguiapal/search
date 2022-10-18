@@ -1,0 +1,14 @@
+[
+  {
+    "name": "search-results",
+    "path": "/search-results",
+    "component": "C:\\\\Users\\\\BFI\\\\Desktop\\\\JIHARA GUIAPAL\\\\search app\\\\up\\\\simple-search-app\\\\simple-search-app\\\\pages\\\\search-results.vue",
+    "chunkName": "pages/search-results"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\BFI\\\\Desktop\\\\JIHARA GUIAPAL\\\\search app\\\\up\\\\simple-search-app\\\\simple-search-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
